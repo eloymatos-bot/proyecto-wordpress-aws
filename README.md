@@ -132,6 +132,12 @@ Se accedió desde el navegador a través de la IP pública y se completó la ins
 * Contraseña: password123
 
 Se logró acceder correctamente al panel de administración.
+<img width="512" height="475" alt="image" src="https://github.com/user-attachments/assets/2d8278d7-940d-4faa-bd0d-7998ffc1acdc" />
+
+<img width="512" height="475" alt="image" src="https://github.com/user-attachments/assets/9605486d-6018-496a-83d9-ae22ee988342" />
+
+<img width="807" height="382" alt="bienvenido a worpres" src="https://github.com/user-attachments/assets/0b0856d0-1f41-48ca-aeaf-a32cda351021" />
+
 
 ---
 
@@ -154,6 +160,10 @@ Se cambió al nuevo usuario:
 ```bash
 su - eloy
 ```
+
+<img width="512" height="375" alt="image" src="https://github.com/user-attachments/assets/4ff78f01-e842-4caa-9faf-801c3a38c630" />
+
+
 
 #### ⚠️ Problema encontrado
 
@@ -180,6 +190,9 @@ sudo ufw status
 Esto permitió asegurar el servidor contra accesos no autorizados.
 
 ---
+
+<img width="469" height="218" alt="image" src="https://github.com/user-attachments/assets/a9adbf1d-f3ce-4060-862d-cf6d03acdffd" />
+
 
 ## 🌐 Desarrollo del sitio web
 
